@@ -45,5 +45,5 @@ To document my growth as a web developer by continuously improving the same proj
 ---
 
 ## 👨‍💻 Author
-Sachin  
+Sachin Goyal
 B.Tech CSE @ IIIT Kota
